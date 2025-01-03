@@ -4,6 +4,10 @@ A modern web application built with React and Vite that allows users to merge mu
 
 ![Excel Merger Screenshot](./screenshot.png)
 
+## Live Demo
+
+[https://hppanpaliya.github.io/excel-merger/](https://hppanpaliya.github.io/excel-merger/)
+
 ## Features
 
 - 🔄 Drag and drop interface for file selection
